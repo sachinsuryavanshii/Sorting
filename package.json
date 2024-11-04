@@ -1,0 +1,11 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "main": "project1.js",
+  "scripts": {
+    "start": "node project1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
